@@ -77,6 +77,6 @@ module.exports = {
   },
   plugins: [
     require("tailwindcss-animate"), // Corrected require statement
-    require("@tailwindcss/forms"), // Corrected require statement
+    require("@tailwindcss/typography"), // Corrected require statement
   ],
 };
